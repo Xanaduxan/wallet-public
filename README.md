@@ -46,9 +46,7 @@
 │ ├── config/ # настройки и переменные
 │ └── app.module.ts
 
-yaml
-Копировать
-Редактировать
+
 ```
 
 ---
@@ -59,7 +57,7 @@ yaml
 
 #### Backend:
 
-```bash
+```
 cd server
 npm install
 ```
